@@ -1,0 +1,1 @@
+A simple Blog run by SRM University students who are members of the Next Tech Lab. 
